@@ -1,0 +1,23 @@
+# Backend
+backend-spring boot/target/
+backend-spring boot/.classpath
+backend-spring boot/.project
+backend-spring boot/.settings/
+backend-spring boot/*.log
+
+# Frontend
+fontend-react/node_modules/
+fontend-react/build/
+fontend-react/.env
+fontend-react/npm-debug.log*
+fontend-react/yarn-debug.log*
+fontend-react/yarn-error.log*
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
